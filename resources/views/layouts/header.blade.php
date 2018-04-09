@@ -44,7 +44,7 @@
                             <ul class="nav nav-tabs" role="tablist">
                                 <li role="presentation"><a href="/">Home</a></li>
                                 <li role="presentation"><a href="services">Services</a></li>
-                                <li role="presentation"><a href="ekpotoblog.blogspot.com.ng">Blog</a></li>
+                                <li role="presentation"><a href="https://ekpotoblog.blogspot.com.ng/">Blog</a></li>
                                 <li role="presentation"><a href="portfolio">Portfolio</a></li>
                                 <li role="presentation"><a href="contact">Contact</a></li>
                             </ul>
